@@ -18,3 +18,5 @@ java -jar spring-cloud-dataflow-server-2.11.2.jar --spring.cloud.dataflow.featur
 
 ## Application:
 http://localhost:9393/dashboard
+
+![Screenshot](https://github.com/OzgurAkinci/spring-dataflow-server/blob/main/git_resources/dataflow.png?raw=true)
